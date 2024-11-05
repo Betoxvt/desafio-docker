@@ -44,7 +44,7 @@ DevOps: um conjunto de práticas e ferramentas para integrar equipes e otimizar 
 - A satisfação do cliente melhorou em 75% das empresas após a adoção do DevOps.
 - 86% das organizações consideram o DevOps essencial para suas operações.
 
-[Fonte]<https://scoop.market.us/devops-market-news>
+Fonte: <https://scoop.market.us/devops-market-news>
 
 DevOps já é o TOP 1 Framework utilizado atualmente!
 
@@ -94,4 +94,5 @@ Colocar a imagem no repositório hub.docker.com:
 1. Ver se a tag na imagem do Dockerfile está com a tag (python:3.13.0)
 2. Nomear a imagem criada no formato `<namespace>/<nome da imagem>:<versão>`
 3. Boa prática de também subir ela com a tag latest `$ docker tag <namespace/imagem:versão> <namespace/imagem:latest>`
+
 
